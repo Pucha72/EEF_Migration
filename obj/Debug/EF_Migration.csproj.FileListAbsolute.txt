@@ -1,0 +1,14 @@
+D:\Projects\EF_TEST\EF_Migration\bin\Debug\EF_Migration.dll.config
+D:\Projects\EF_TEST\EF_Migration\bin\Debug\EF_Migration.dll
+D:\Projects\EF_TEST\EF_Migration\bin\Debug\EF_Migration.pdb
+D:\Projects\EF_TEST\EF_Migration\bin\Debug\EF_Models.dll
+D:\Projects\EF_TEST\EF_Migration\bin\Debug\EntityFramework.dll
+D:\Projects\EF_TEST\EF_Migration\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\EF_TEST\EF_Migration\bin\Debug\EF_Models.pdb
+D:\Projects\EF_TEST\EF_Migration\bin\Debug\EntityFramework.xml
+D:\Projects\EF_TEST\EF_Migration\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\EF_TEST\EF_Migration\obj\Debug\EF_Migration.csprojAssemblyReference.cache
+D:\Projects\EF_TEST\EF_Migration\obj\Debug\EF_Migration.csproj.CoreCompileInputs.cache
+D:\Projects\EF_TEST\EF_Migration\obj\Debug\EF_Migration.csproj.CopyComplete
+D:\Projects\EF_TEST\EF_Migration\obj\Debug\EF_Migration.dll
+D:\Projects\EF_TEST\EF_Migration\obj\Debug\EF_Migration.pdb
